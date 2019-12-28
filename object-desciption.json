@@ -1,0 +1,24 @@
+[
+  {
+    
+    "TypeObject": 1,
+    "Name": "zavod",
+    "Year": 2000,
+    "Owner": "Rud",
+    "Value": 12
+  },
+  {
+    "TypeObject": 1,
+    "Name": "zavod2",
+    "Year": 2007,
+    "Owner": "noname",
+    "Value": 129
+  },
+  {
+    "TypeObject": 2,
+    "Name": "straxovya",
+    "Year": 2012,
+    "Owner": "max",
+    "Value": 207
+  }
+]
